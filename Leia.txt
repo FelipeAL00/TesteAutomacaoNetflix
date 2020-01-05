@@ -1,0 +1,13 @@
+ATENÇÃO!
+
+Para esta automação rodar, é necessário alterar o caso de teste e passar o caminho até ele através da constante CAMINHO
+que se encontra dentro da classe ExcelUtil.
+
+exemplo de caminho:
+C:\\Users\\felipe.almeida\\Documents\\java-workspace\\Netflix\
+
+exemplo de caso de teste que deve ser inserido:
+username		senha		filme
+felipe1@live.com	felipe		esquadrão 6
+
+Após rodar sua aplicação, se o login entrar ele te retornará uma string dentro do caso de teste indicando se passou ou não passou
